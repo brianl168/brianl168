@@ -6,7 +6,7 @@ This is my GitHub profile, here you can find some of my projects! you can see th
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alexis-brian-lopez/" target="blank"><img align="center" src="https://camo.githubusercontent.com/2b904313e8a94a29dde1a57258684a3e07310da404ba076c29c2528b83edf730/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3137342f3137343835372e706e67" alt="https://www.linkedin.com/in/gabriel-fresco-dev/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alexis-brian-lopez/" target="blank"><img align="center" src="https://camo.githubusercontent.com/2b904313e8a94a29dde1a57258684a3e07310da404ba076c29c2528b83edf730/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3137342f3137343835372e706e67" alt="https://www.linkedin.com/in/alexis-brian-lopez/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
