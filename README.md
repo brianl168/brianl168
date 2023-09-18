@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-This is my GitHub profile, here you can find some of my projects! you can see them here or you can see some videos of them in my Linkdin profile
+This is my GitHub profile, where you can find some of my projects and collaborations that were not carried out through Bitbucket. You can explore them here or watch videos related to them on my LinkedIn profile.
 
 - 📫 How to reach me **brianrosarino@gmail.com**
 
